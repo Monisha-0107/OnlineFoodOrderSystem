@@ -47,6 +47,8 @@ Eclipse / NetBeans IDE
 Git & GitHub
 
 screenshots
+
+
 <img width="604" height="327" alt="Screenshot 2026-02-14 151647" src="https://github.com/user-attachments/assets/e235e4c8-6642-4a99-a456-eaeea9c1dcdc" />
 
 <img width="654" height="567" alt="Screenshot 2026-02-14 151838" src="https://github.com/user-attachments/assets/5a5e2791-eb3d-4698-80a7-871841479665" />
